@@ -1,0 +1,6 @@
+{
+  "name": "Shin-Ken: Samurai Showdown",
+  "description": "An epic Japanese martial arts 3D fighting game with smooth animations, cinematic combat, legendary boss battles, and a complete RPG system with over 100,000 levels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
